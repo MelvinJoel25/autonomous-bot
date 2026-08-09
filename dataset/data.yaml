@@ -1,0 +1,12 @@
+path: .
+train: images/train
+val: images/val
+
+nc: 6
+names:
+  0: box
+  1: sticky_note
+  2: bottle
+  3: plastic
+  4: table
+  5: tape
