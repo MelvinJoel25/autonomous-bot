@@ -75,46 +75,7 @@ The main objectives of Autobot are:
 
 The overall Autobot system can be represented as:
 
-```text
-                 Camera Input
-                      |
-                      v
-              +----------------+
-              | Camera         |
-              | Calibration    |
-              +----------------+
-                      |
-                      v
-              +----------------+
-              | Computer       |
-              | Vision / YOLO  |
-              +----------------+
-                      |
-                      v
-              +----------------+
-              | Environment /  |
-              | Obstacle Info  |
-              +----------------+
-                      |
-                      v
-              +----------------+
-              | Navigation     |
-              | Algorithm      |
-              +----------------+
-                      |
-                      v
-              +----------------+
-              | Motion Command |
-              +----------------+
-                      |
-                      v
-              +----------------+
-              | Arduino        |
-              | Controller     |
-              +----------------+
-                      |
-                      v
-              +----------------+
-              | Omni-Directional|
-              | Robot Motors   |
-              +----------------+
+<img width="960" height="540" alt="Block Diagram" src="https://github.com/user-attachments/assets/d4d57096-5e71-46a2-acbf-414705cb2cec" />
+
+
+
