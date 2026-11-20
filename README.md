@@ -1,6 +1,6 @@
-# KRAB: Autonomous Omni-Directional Robot Navigation System
+# Autonomous Omni-Directional Robot Navigation System
 
-KRAB is an autonomous omni-directional robotics project that integrates computer vision, machine learning, navigation, and embedded control into a single robotic system.
+Autobot is an autonomous omni-directional robotics project that integrates computer vision, machine learning, navigation, and embedded control into a single robotic system.
 
 The project focuses on enabling an omni-directional robot to perceive its environment, detect obstacles using a YOLO-based vision pipeline, make navigation decisions, and execute movement through an embedded motor-control system.
 
@@ -40,7 +40,7 @@ The repository contains the navigation algorithms, computer-vision modules, YOLO
 
 Autonomous mobile robots need to combine perception, decision-making, and motion control in order to operate without continuous human intervention.
 
-KRAB was developed as an experimental autonomous robotics platform to explore this integration.
+Autobot was developed as an experimental autonomous robotics platform to explore this integration.
 
 The system combines:
 
@@ -58,7 +58,7 @@ The project is organized into independent modules so that individual parts of th
 
 ## Project Objectives
 
-The main objectives of KRAB are:
+The main objectives of Autobot are:
 
 1. Develop an autonomous navigation system for an omni-directional robot.
 2. Use computer vision to obtain information about the robot's environment.
@@ -73,7 +73,7 @@ The main objectives of KRAB are:
 
 ## System Architecture
 
-The overall KRAB system can be represented as:
+The overall Autobot system can be represented as:
 
 ```text
                  Camera Input
